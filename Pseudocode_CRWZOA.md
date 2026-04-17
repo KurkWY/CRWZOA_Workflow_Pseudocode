@@ -26,3 +26,5 @@ Start CRWZOA.
 21. end for
 22. Output: The best solution obtained by EZOA for given optimization problem.
 End CRWZOA.
+
+Equation (2), (3), (4), (5) and (6) can be found at https://doi.org/10.1007/s44443-025-00164-6
